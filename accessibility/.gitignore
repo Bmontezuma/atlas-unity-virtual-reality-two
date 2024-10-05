@@ -1,0 +1,66 @@
+# Unity generated files
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+/Assets/StreamingAssets/
+
+# Visual Studio/JetBrains Rider
+.vs/
+.vscode/
+.idea/
+
+# User-specific settings
+/ProjectSettings/EditorSettings.asset
+/ProjectSettings/GraphicsSettings.asset
+/ProjectSettings/InputManager.asset
+/ProjectSettings/QualitySettings.asset
+/ProjectSettings/TagManager.asset
+
+# Unity package manager
+/Packages/packages.lock.json
+/Packages/manifest.json
+
+# TextMeshPro
+/Assets/TextMesh Pro/
+
+# Fonts
+/Assets/Fonts/
+*.ttf
+*.otf
+*.fnt
+
+# Large files
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.wav
+*.flac
+*.ogg
+*.mp3
+*.zip
+*.rar
+*.tar.gz
+*.tar.bz2
+*.tar
+*.7z
+
+# Textures and materials
+*.tga
+*.png
+*.jpg
+*.jpeg
+*.exr
+*.psd
+*.tiff
+*.gif
+
+# Meta files (optional, only if you're sure)
+*.meta
+
+# Cache files
+/Library/PackageCache/
