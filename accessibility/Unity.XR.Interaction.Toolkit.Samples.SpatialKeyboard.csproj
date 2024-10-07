@@ -67,8 +67,8 @@
     <Compile Include="Assets\Samples\XR Interaction Toolkit\2.6.3\Spatial Keyboard\Scripts\XRKeyboardDisplay.cs" />
     <Compile Include="Assets\Samples\XR Interaction Toolkit\2.6.3\Spatial Keyboard\Scripts\KeyFunction.cs" />
     <Compile Include="Assets\Samples\XR Interaction Toolkit\2.6.3\Spatial Keyboard\Scripts\XRKeyboardKey.cs" />
-    <Compile Include="Assets\Samples\XR Interaction Toolkit\2.6.3\Spatial Keyboard\Scripts\XRKeyboardLayout.cs" />
     <Compile Include="Assets\Samples\XR Interaction Toolkit\2.6.3\Spatial Keyboard\Scripts\GlobalNonNativeKeyboard.cs" />
+    <Compile Include="Assets\Samples\XR Interaction Toolkit\2.6.3\Spatial Keyboard\Scripts\XRKeyboardLayout.cs" />
     <Compile Include="Assets\Samples\XR Interaction Toolkit\2.6.3\Spatial Keyboard\Scripts\KeyFunctions\ShiftFunction.cs" />
     <Compile Include="Assets\Samples\XR Interaction Toolkit\2.6.3\Spatial Keyboard\Scripts\XRKeyboardConfig.cs" />
     <Compile Include="Assets\Samples\XR Interaction Toolkit\2.6.3\Spatial Keyboard\Scripts\XRKeyboardEvents.cs" />
